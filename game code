@@ -20,7 +20,7 @@ puts "Now that we have parachutes, let's travel!"
 puts "Which vacation spot would you choose?"
     user_input = gets.chomp
 puts "#{user_input} is a wonderful place to visit!"
-puts "When you to #{user_input}, you will neet a place to stay."
+puts "When you get to #{user_input}, you will neet a place to stay."
 puts "Pick a type of accommodation."
 puts "Option: hotel, motel, hostel, R V, tent, cabin"
     option = gets.chomp
